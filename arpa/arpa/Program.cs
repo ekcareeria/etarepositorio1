@@ -16,7 +16,7 @@ namespace arpa
             {
                 Console.WriteLine("Heitetään noppaa");
                 randomLuvut();
-                Console.WriteLine("Heitetäänkö noppaa uudelleen? K=kyllä/E=ei");
+                Console.WriteLine("Heitetäänkö noppaa uudelleeen? K=kyllä/E=ei");
                 if (Console.ReadLine().ToUpper() == "E") lopeta = true;
             }
         }
