@@ -1,0 +1,8 @@
+C:\Users\I&E\source\repos\arpa\arpa\bin\Debug\arpa.exe.config
+C:\Users\I&E\source\repos\arpa\arpa\bin\Debug\arpa.exe
+C:\Users\I&E\source\repos\arpa\arpa\bin\Debug\arpa.pdb
+C:\Users\I&E\source\repos\arpa\arpa\obj\Debug\arpa.csproj.AssemblyReference.cache
+C:\Users\I&E\source\repos\arpa\arpa\obj\Debug\arpa.csproj.SuggestedBindingRedirects.cache
+C:\Users\I&E\source\repos\arpa\arpa\obj\Debug\arpa.csproj.CoreCompileInputs.cache
+C:\Users\I&E\source\repos\arpa\arpa\obj\Debug\arpa.exe
+C:\Users\I&E\source\repos\arpa\arpa\obj\Debug\arpa.pdb
